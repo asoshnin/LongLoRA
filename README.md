@@ -2,7 +2,7 @@
 <img src="imgs/LongAlpaca.png" alt="Stanford-Alpaca" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-# LongLoRA and LongAlpaca for Long-context LLMs
+# **LongLoRA and LongAlpaca for Long-context LLMs**
 
 
 [![Huggingface Models](https://img.shields.io/badge/Models-Huggingface%20Models-bron)](https://huggingface.co/Yukang)
